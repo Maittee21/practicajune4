@@ -1,0 +1,18 @@
+.sup{ 
+    justify-content: flex-end;
+    
+
+    padding-bottom : 10px;
+padding-bottom : 10xp;
+
+}
+
+.pag{
+    display: flex;
+    justify-content: flex-end;
+     
+
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+

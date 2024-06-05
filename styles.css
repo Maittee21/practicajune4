@@ -1,18 +1,25 @@
-.sup{ 
-    justify-content: flex-end;
-    
 
-    padding-bottom : 10px;
-padding-bottom : 10xp;
-
+   .foto{
+background: 
+url("https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero.jpg") 
+50% / cover no-repeat;
+padding-top: 15px;
+padding-bottom: 15px;
+color:white;
+text-transform: uppercase;
+padding-left: 50px;
 }
-
-.pag{
+.sup {
     display: flex;
-    justify-content: flex-end;
-     
+    justify-content: right;
+    
+   }
+   .sup a{
+    color:rgb(28, 114, 88);
+    text-decoration: none;
+    margin-left: 10px;
+   }
 
-    padding-bottom: 10px;
-    padding-top: 10px;
-}
-
+   h2{
+    color: rgb(175, 137, 34);
+   }

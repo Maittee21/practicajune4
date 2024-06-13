@@ -2,14 +2,22 @@
    
     @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
      
+.busq{
+  text-align: right;
+  
 
+}
 
     h1{
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 
         'Trebuchet MS', sans-serif;
+        
     
     }
-    .opt{
+    h2{
+      color: brown;
+    }
+    nav{
         background-color: rgb(175, 134, 97);
      border: 1px solid rgb(175, 134, 94);
     border-width: 20px 10px 20px 10px;
@@ -18,8 +26,10 @@
     text-align: center;
     justify-content: center;
     }
-    .opt a{
+    nav a{
     margin-left: 40px;
+    text-decoration: none;
+    color: white;
     }
     
     h1,p{font-family: "Pacifico", cursive;
@@ -28,8 +38,15 @@
         border-width: 30px 20px 30px 20px;
         text-align: center;
         justify-content: center;
+        padding-bottom: 30px;
       }
       h2{
         font-family: Georgia, 'Times New Roman', Times, serif;
       }
-      
+      .img1{
+        background: url(imagenes/portada.jpg);
+        padding-top: 150px;
+      }
+      .inf{
+background-color: blanchedalmond;
+      }
